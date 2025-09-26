@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(154, 154, 241);
+    margin: 0;
+    padding: 0;
+}
+.board{
+    margin:auto;
+    height: 640px;
+    width: 640px;
+}
+.box1{
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.box2{
+     background-color: rgb(255, 255, 255);
+    height: 80px;
+    width: 80px;
+    float: left;
+}
